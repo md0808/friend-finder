@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Full stack application where people are matched based on the data they submitted through a survey",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/md0808/friend-finder.git"
+  },
+  "author": "Monica Dixon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/md0808/friend-finder/issues"
+  },
+  "homepage": "https://github.com/md0808/friend-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
